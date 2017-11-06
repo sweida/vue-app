@@ -1,6 +1,5 @@
 
 # Demo
-![scan the qr code](https://rawgit.com/momopig/vue-flexible-app/master/qrCode.png)
 
 [演示地址](https://momopig.github.io/#/)
 
